@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\veron\\Desktop\\SauceDemoApp\\SauceDemoAppTesting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F9F91E-D1E1-452D-AA13-B881625628DB}|SauceDemoAppTesting\\SauceDemoAppTesting.csproj|c:\\users\\veron\\desktop\\saucedemoapp\\saucedemoapptesting\\saucedemoapptesting\\tests\\hiddenmenutests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F9F91E-D1E1-452D-AA13-B881625628DB}|SauceDemoAppTesting\\SauceDemoAppTesting.csproj|solutionrelative:saucedemoapptesting\\tests\\hiddenmenutests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F9F91E-D1E1-452D-AA13-B881625628DB}|SauceDemoAppTesting\\SauceDemoAppTesting.csproj|c:\\users\\veron\\desktop\\saucedemoapp\\saucedemoapptesting\\saucedemoapptesting\\tests\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F9F91E-D1E1-452D-AA13-B881625628DB}|SauceDemoAppTesting\\SauceDemoAppTesting.csproj|solutionrelative:saucedemoapptesting\\tests\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F9F91E-D1E1-452D-AA13-B881625628DB}|SauceDemoAppTesting\\SauceDemoAppTesting.csproj|c:\\users\\veron\\desktop\\saucedemoapp\\saucedemoapptesting\\saucedemoapptesting\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F9F91E-D1E1-452D-AA13-B881625628DB}|SauceDemoAppTesting\\SauceDemoAppTesting.csproj|solutionrelative:saucedemoapptesting\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F9F91E-D1E1-452D-AA13-B881625628DB}|SauceDemoAppTesting\\SauceDemoAppTesting.csproj|c:\\users\\veron\\desktop\\saucedemoapp\\saucedemoapptesting\\saucedemoapptesting\\tests\\carttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F9F91E-D1E1-452D-AA13-B881625628DB}|SauceDemoAppTesting\\SauceDemoAppTesting.csproj|solutionrelative:saucedemoapptesting\\tests\\carttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F9F91E-D1E1-452D-AA13-B881625628DB}|SauceDemoAppTesting\\SauceDemoAppTesting.csproj|c:\\users\\veron\\desktop\\saucedemoapp\\saucedemoapptesting\\saucedemoapptesting\\tests\\checkouttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F9F91E-D1E1-452D-AA13-B881625628DB}|SauceDemoAppTesting\\SauceDemoAppTesting.csproj|solutionrelative:saucedemoapptesting\\tests\\checkouttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F9F91E-D1E1-452D-AA13-B881625628DB}|SauceDemoAppTesting\\SauceDemoAppTesting.csproj|c:\\users\\veron\\desktop\\saucedemoapp\\saucedemoapptesting\\saucedemoapptesting\\tests\\inventorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F9F91E-D1E1-452D-AA13-B881625628DB}|SauceDemoAppTesting\\SauceDemoAppTesting.csproj|solutionrelative:saucedemoapptesting\\tests\\inventorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F9F91E-D1E1-452D-AA13-B881625628DB}|SauceDemoAppTesting\\SauceDemoAppTesting.csproj|c:\\users\\veron\\desktop\\saucedemoapp\\saucedemoapptesting\\saucedemoapptesting\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F9F91E-D1E1-452D-AA13-B881625628DB}|SauceDemoAppTesting\\SauceDemoAppTesting.csproj|solutionrelative:saucedemoapptesting\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F9F91E-D1E1-452D-AA13-B881625628DB}|SauceDemoAppTesting\\SauceDemoAppTesting.csproj|c:\\users\\veron\\desktop\\saucedemoapp\\saucedemoapptesting\\saucedemoapptesting\\pages\\hiddenmenupage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F9F91E-D1E1-452D-AA13-B881625628DB}|SauceDemoAppTesting\\SauceDemoAppTesting.csproj|solutionrelative:saucedemoapptesting\\pages\\hiddenmenupage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F9F91E-D1E1-452D-AA13-B881625628DB}|SauceDemoAppTesting\\SauceDemoAppTesting.csproj|c:\\users\\veron\\desktop\\saucedemoapp\\saucedemoapptesting\\saucedemoapptesting\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F9F91E-D1E1-452D-AA13-B881625628DB}|SauceDemoAppTesting\\SauceDemoAppTesting.csproj|solutionrelative:saucedemoapptesting\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F9F91E-D1E1-452D-AA13-B881625628DB}|SauceDemoAppTesting\\SauceDemoAppTesting.csproj|c:\\users\\veron\\desktop\\saucedemoapp\\saucedemoapptesting\\saucedemoapptesting\\pages\\checkoutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F9F91E-D1E1-452D-AA13-B881625628DB}|SauceDemoAppTesting\\SauceDemoAppTesting.csproj|solutionrelative:saucedemoapptesting\\pages\\checkoutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F9F91E-D1E1-452D-AA13-B881625628DB}|SauceDemoAppTesting\\SauceDemoAppTesting.csproj|c:\\users\\veron\\desktop\\saucedemoapp\\saucedemoapptesting\\saucedemoapptesting\\pages\\cartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F9F91E-D1E1-452D-AA13-B881625628DB}|SauceDemoAppTesting\\SauceDemoAppTesting.csproj|solutionrelative:saucedemoapptesting\\pages\\cartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F9F91E-D1E1-452D-AA13-B881625628DB}|SauceDemoAppTesting\\SauceDemoAppTesting.csproj|c:\\users\\veron\\desktop\\saucedemoapp\\saucedemoapptesting\\saucedemoapptesting\\pages\\inventorypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F9F91E-D1E1-452D-AA13-B881625628DB}|SauceDemoAppTesting\\SauceDemoAppTesting.csproj|solutionrelative:saucedemoapptesting\\pages\\inventorypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F9F91E-D1E1-452D-AA13-B881625628DB}|SauceDemoAppTesting\\SauceDemoAppTesting.csproj|c:\\users\\veron\\desktop\\saucedemoapp\\saucedemoapptesting\\saucedemoapptesting\\saucedemoapptesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F1F9F91E-D1E1-452D-AA13-B881625628DB}|SauceDemoAppTesting\\SauceDemoAppTesting.csproj|solutionrelative:saucedemoapptesting\\saucedemoapptesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InventoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\Desktop\\SauceDemoApp\\SauceDemoAppTesting\\SauceDemoAppTesting\\Tests\\InventoryTests.cs",
+              "RelativeDocumentMoniker": "SauceDemoAppTesting\\Tests\\InventoryTests.cs",
+              "ToolTip": "C:\\Users\\veron\\Desktop\\SauceDemoApp\\SauceDemoAppTesting\\SauceDemoAppTesting\\Tests\\InventoryTests.cs*",
+              "RelativeToolTip": "SauceDemoAppTesting\\Tests\\InventoryTests.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T17:00:44.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CheckoutTests.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\Desktop\\SauceDemoApp\\SauceDemoAppTesting\\SauceDemoAppTesting\\Tests\\CheckoutTests.cs",
+              "RelativeDocumentMoniker": "SauceDemoAppTesting\\Tests\\CheckoutTests.cs",
+              "ToolTip": "C:\\Users\\veron\\Desktop\\SauceDemoApp\\SauceDemoAppTesting\\SauceDemoAppTesting\\Tests\\CheckoutTests.cs*",
+              "RelativeToolTip": "SauceDemoAppTesting\\Tests\\CheckoutTests.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T17:01:23.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\Desktop\\SauceDemoApp\\SauceDemoAppTesting\\SauceDemoAppTesting\\Tests\\BaseTest.cs",
+              "RelativeDocumentMoniker": "SauceDemoAppTesting\\Tests\\BaseTest.cs",
+              "ToolTip": "C:\\Users\\veron\\Desktop\\SauceDemoApp\\SauceDemoAppTesting\\SauceDemoAppTesting\\Tests\\BaseTest.cs*",
+              "RelativeToolTip": "SauceDemoAppTesting\\Tests\\BaseTest.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T17:00:07.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CheckoutPage.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\Desktop\\SauceDemoApp\\SauceDemoAppTesting\\SauceDemoAppTesting\\Pages\\CheckoutPage.cs",
+              "RelativeDocumentMoniker": "SauceDemoAppTesting\\Pages\\CheckoutPage.cs",
+              "ToolTip": "C:\\Users\\veron\\Desktop\\SauceDemoApp\\SauceDemoAppTesting\\SauceDemoAppTesting\\Pages\\CheckoutPage.cs",
+              "RelativeToolTip": "SauceDemoAppTesting\\Pages\\CheckoutPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T16:59:21.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartPage.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\Desktop\\SauceDemoApp\\SauceDemoAppTesting\\SauceDemoAppTesting\\Pages\\CartPage.cs",
+              "RelativeDocumentMoniker": "SauceDemoAppTesting\\Pages\\CartPage.cs",
+              "ToolTip": "C:\\Users\\veron\\Desktop\\SauceDemoApp\\SauceDemoAppTesting\\SauceDemoAppTesting\\Pages\\CartPage.cs",
+              "RelativeToolTip": "SauceDemoAppTesting\\Pages\\CartPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T16:58:42.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartTests.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\Desktop\\SauceDemoApp\\SauceDemoAppTesting\\SauceDemoAppTesting\\Tests\\CartTests.cs",
+              "RelativeDocumentMoniker": "SauceDemoAppTesting\\Tests\\CartTests.cs",
+              "ToolTip": "C:\\Users\\veron\\Desktop\\SauceDemoApp\\SauceDemoAppTesting\\SauceDemoAppTesting\\Tests\\CartTests.cs*",
+              "RelativeToolTip": "SauceDemoAppTesting\\Tests\\CartTests.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T17:01:02.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginTests.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\Desktop\\SauceDemoApp\\SauceDemoAppTesting\\SauceDemoAppTesting\\Tests\\LoginTests.cs",
+              "RelativeDocumentMoniker": "SauceDemoAppTesting\\Tests\\LoginTests.cs",
+              "ToolTip": "C:\\Users\\veron\\Desktop\\SauceDemoApp\\SauceDemoAppTesting\\SauceDemoAppTesting\\Tests\\LoginTests.cs*",
+              "RelativeToolTip": "SauceDemoAppTesting\\Tests\\LoginTests.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T17:00:30.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\Desktop\\SauceDemoApp\\SauceDemoAppTesting\\SauceDemoAppTesting\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "SauceDemoAppTesting\\Pages\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\veron\\Desktop\\SauceDemoApp\\SauceDemoAppTesting\\SauceDemoAppTesting\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "SauceDemoAppTesting\\Pages\\LoginPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T16:57:45.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HiddenMenuTests.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\Desktop\\SauceDemoApp\\SauceDemoAppTesting\\SauceDemoAppTesting\\Tests\\HiddenMenuTests.cs",
+              "RelativeDocumentMoniker": "SauceDemoAppTesting\\Tests\\HiddenMenuTests.cs",
+              "ToolTip": "C:\\Users\\veron\\Desktop\\SauceDemoApp\\SauceDemoAppTesting\\SauceDemoAppTesting\\Tests\\HiddenMenuTests.cs*",
+              "RelativeToolTip": "SauceDemoAppTesting\\Tests\\HiddenMenuTests.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAzwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T17:01:45.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\Desktop\\SauceDemoApp\\SauceDemoAppTesting\\SauceDemoAppTesting\\Pages\\BasePage.cs",
+              "RelativeDocumentMoniker": "SauceDemoAppTesting\\Pages\\BasePage.cs",
+              "ToolTip": "C:\\Users\\veron\\Desktop\\SauceDemoApp\\SauceDemoAppTesting\\SauceDemoAppTesting\\Pages\\BasePage.cs",
+              "RelativeToolTip": "SauceDemoAppTesting\\Pages\\BasePage.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAewDUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T16:57:13.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HiddenMenuPage.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\Desktop\\SauceDemoApp\\SauceDemoAppTesting\\SauceDemoAppTesting\\Pages\\HiddenMenuPage.cs",
+              "RelativeDocumentMoniker": "SauceDemoAppTesting\\Pages\\HiddenMenuPage.cs",
+              "ToolTip": "C:\\Users\\veron\\Desktop\\SauceDemoApp\\SauceDemoAppTesting\\SauceDemoAppTesting\\Pages\\HiddenMenuPage.cs",
+              "RelativeToolTip": "SauceDemoAppTesting\\Pages\\HiddenMenuPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T16:59:47.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InventoryPage.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\Desktop\\SauceDemoApp\\SauceDemoAppTesting\\SauceDemoAppTesting\\Pages\\InventoryPage.cs",
+              "RelativeDocumentMoniker": "SauceDemoAppTesting\\Pages\\InventoryPage.cs",
+              "ToolTip": "C:\\Users\\veron\\Desktop\\SauceDemoApp\\SauceDemoAppTesting\\SauceDemoAppTesting\\Pages\\InventoryPage.cs",
+              "RelativeToolTip": "SauceDemoAppTesting\\Pages\\InventoryPage.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwCgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T16:58:17.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SauceDemoAppTesting.csproj",
+              "DocumentMoniker": "C:\\Users\\veron\\Desktop\\SauceDemoApp\\SauceDemoAppTesting\\SauceDemoAppTesting\\SauceDemoAppTesting.csproj",
+              "RelativeDocumentMoniker": "SauceDemoAppTesting\\SauceDemoAppTesting.csproj",
+              "ToolTip": "C:\\Users\\veron\\Desktop\\SauceDemoApp\\SauceDemoAppTesting\\SauceDemoAppTesting\\SauceDemoAppTesting.csproj",
+              "RelativeToolTip": "SauceDemoAppTesting\\SauceDemoAppTesting.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-16T16:52:09.472Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
